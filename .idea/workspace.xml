@@ -10,8 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fed463b-4d1c-48c4-973f-cb37189dbd60" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/lib/mining/template.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/mining/template.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/node/rpc.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/node/rpc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/net/pool.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/pool.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,11 +46,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614332858430</updated>
-      <workItem from="1614332859522" duration="286000" />
+      <workItem from="1614332859522" duration="914000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2261" y="486" width="586" height="490" key="find.popup" timestamp="1614335593614">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="2261" y="486" width="586" height="490" key="find.popup/945.1463.1440.877/0.23.3440.1417@0.23.3440.1417" timestamp="1614335593614" />
   </component>
 </project>
