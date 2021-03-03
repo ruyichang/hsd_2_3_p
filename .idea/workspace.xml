@@ -11,7 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7fed463b-4d1c-48c4-973f-cb37189dbd60" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/mining/template.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/mining/template.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/node/rpc.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/node/rpc.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
       <updated>1614332858430</updated>
       <workItem from="1614332859522" duration="1504000" />
       <workItem from="1614567837179" duration="28181000" />
-      <workItem from="1614742542523" duration="8407000" />
+      <workItem from="1614742542523" duration="8799000" />
     </task>
     <servers />
   </component>
