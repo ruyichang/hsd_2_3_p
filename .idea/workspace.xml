@@ -11,7 +11,10 @@
   <component name="ChangeListManager">
     <list default="true" id="7fed463b-4d1c-48c4-973f-cb37189dbd60" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/net/pool.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/pool.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/blockchain/chain.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/blockchain/chain.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/primitives/block.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/primitives/block.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/primitives/merkleblock.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/primitives/merkleblock.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/chain-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/chain-test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +26,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectId" id="1p0vX8f5hBoFZjnOjIN65ZsKd8V" />
   <component name="ProjectViewState">
@@ -46,7 +52,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614332858430</updated>
-      <workItem from="1614332859522" duration="914000" />
+      <workItem from="1614332859522" duration="1504000" />
+      <workItem from="1614567837179" duration="28181000" />
+      <workItem from="1614742542523" duration="1577000" />
     </task>
     <servers />
   </component>
@@ -54,9 +62,18 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2261" y="486" width="586" height="490" key="find.popup" timestamp="1614335593614">
+    <state x="2018" y="393" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614594144786">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state x="2261" y="486" width="586" height="490" key="find.popup/945.1463.1440.877/0.23.3440.1417@0.23.3440.1417" timestamp="1614335593614" />
+    <state x="2018" y="393" key="#com.intellij.execution.impl.EditConfigurationsDialog/945.1463.1440.877/0.23.3440.1417@0.23.3440.1417" timestamp="1614594144786" />
+    <state x="2261" y="486" width="586" height="490" key="find.popup" timestamp="1614695323405">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="872" y="310" width="568" height="490" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1614609859223" />
+    <state x="2261" y="486" width="586" height="490" key="find.popup/945.1463.1440.877/0.23.3440.1417@0.23.3440.1417" timestamp="1614695323405" />
+    <state x="2219" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1614675948253">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="2219" y="348" width="670" height="676" key="search.everywhere.popup/945.1463.1440.877/0.23.3440.1417@0.23.3440.1417" timestamp="1614675948253" />
   </component>
 </project>

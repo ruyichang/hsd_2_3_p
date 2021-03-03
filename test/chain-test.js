@@ -492,7 +492,7 @@ describe('Chain', function() {
     const input = tx.inputs[0];
     input.witness.set(0, Buffer.alloc(1001));
     block.refresh(true);
-    assert.strictEqual(await addBlock(block), 'bad-txnmrklroot');
+    assert.strictEqual(await addBlock(block), 'bad-txnmrklroot-6');
   });
 
   it('should fail to connect bad witness commitment', async () => {
@@ -502,7 +502,7 @@ describe('Chain', function() {
     block.merkleRoot = Buffer.from(block.merkleRoot);
     block.merkleRoot[0] ^= 1;
 
-    assert.strictEqual(await addBlock(block, flags), 'bad-txnmrklroot');
+    assert.strictEqual(await addBlock(block, flags), 'bad-txnmrklroot-7');
   });
 
   it('should mine 2000 blocks', async () => {
