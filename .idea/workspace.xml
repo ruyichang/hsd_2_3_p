@@ -9,7 +9,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7fed463b-4d1c-48c4-973f-cb37189dbd60" name="Default Changelist" comment="" />
+    <list default="true" id="7fed463b-4d1c-48c4-973f-cb37189dbd60" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mining/template.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/mining/template.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +51,7 @@
       <updated>1614332858430</updated>
       <workItem from="1614332859522" duration="1504000" />
       <workItem from="1614567837179" duration="28181000" />
-      <workItem from="1614742542523" duration="25034000" />
+      <workItem from="1614742542523" duration="26044000" />
     </task>
     <servers />
   </component>
@@ -60,11 +63,11 @@
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state x="2018" y="393" key="#com.intellij.execution.impl.EditConfigurationsDialog/945.1463.1440.877/0.23.3440.1417@0.23.3440.1417" timestamp="1614759152253" />
-    <state x="2261" y="486" width="586" height="490" key="find.popup" timestamp="1614828238218">
+    <state x="2261" y="486" width="586" height="490" key="find.popup" timestamp="1614836841389">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state x="211" y="47" width="1035" height="651" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1614784545661" />
-    <state x="2261" y="486" width="586" height="490" key="find.popup/945.1463.1440.877/0.23.3440.1417@0.23.3440.1417" timestamp="1614828238218" />
+    <state x="2261" y="486" width="586" height="490" key="find.popup/945.1463.1440.877/0.23.3440.1417@0.23.3440.1417" timestamp="1614836841389" />
     <state x="2219" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1614675948253">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
