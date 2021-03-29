@@ -11,18 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7fed463b-4d1c-48c4-973f-cb37189dbd60" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/blockchain/chain.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/blockchain/chain.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/blockchain/chaindb.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/blockchain/chaindb.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/covenants/rules.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/covenants/rules.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/mempool/mempool.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/mempool/mempool.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/mining/miner.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/mining/miner.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/mining/template.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/mining/template.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/net/pool.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/net/pool.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/node/rpc.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/node/rpc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/protocol/network.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/protocol/network.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/protocol/networks.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/protocol/networks.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/auction-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/auction-test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/util/memwallet.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/util/memwallet.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +53,7 @@
       <workItem from="1614567837179" duration="28181000" />
       <workItem from="1614742542523" duration="54416000" />
       <workItem from="1615169219751" duration="10877000" />
-      <workItem from="1616984821430" duration="1210000" />
+      <workItem from="1616984821430" duration="2134000" />
     </task>
     <servers />
   </component>
@@ -76,11 +65,11 @@
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state x="2018" y="393" key="#com.intellij.execution.impl.EditConfigurationsDialog/945.1463.1440.877/0.23.3440.1417@0.23.3440.1417" timestamp="1615206445205" />
-    <state x="2261" y="486" width="586" height="490" key="find.popup" timestamp="1615174857420">
+    <state x="2261" y="486" width="586" height="490" key="find.popup" timestamp="1616988011917">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state x="211" y="47" width="1035" height="651" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1614784545661" />
-    <state x="2261" y="486" width="586" height="490" key="find.popup/945.1463.1440.877/0.23.3440.1417@0.23.3440.1417" timestamp="1615174857420" />
+    <state x="2261" y="486" width="586" height="490" key="find.popup/945.1463.1440.877/0.23.3440.1417@0.23.3440.1417" timestamp="1616988011917" />
     <state x="2219" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1614675948253">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
