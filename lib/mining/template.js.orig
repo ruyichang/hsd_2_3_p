@@ -275,12 +275,6 @@ class BlockTemplate {
     input.witness.setData(1, random.randomBytes(8));
     input.witness.compile();
 
-    // Covert soft-fork signaling.
-    const chunk = input.witness.items[1];
-
-    chunk[0] = 0xf0;
-    chunk[1] = 0xba;
-
     // Setup output address (variable size).
     output.address = this.address;
 
@@ -620,12 +614,8 @@ class BlockTemplate {
 
   addClaim(claim, data) {
     const entry = BlockClaim.fromClaim(claim, data);
-
-    if (entry.commitHeight === 1)
-      this.fees += entry.fee;
-
+    this.fees += entry.fee;
     this.claims.push(entry);
-
     return true;
   }
 

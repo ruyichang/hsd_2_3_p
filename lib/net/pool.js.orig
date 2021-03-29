@@ -2789,8 +2789,7 @@ class Pool extends EventEmitter {
       await this.mempool.addClaim(claim, peer.id);
     } catch (err) {
       if (err.type === 'VerifyError') {
-        if (err.reason !== 'bad-claim-replacement')
-          peer.reject(packets.types.CLAIM, err);
+        peer.reject(packets.types.CLAIM, err);
         this.logger.info(err);
         return;
       }
