@@ -11,7 +11,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7fed463b-4d1c-48c4-973f-cb37189dbd60" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/protocol/networks.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/protocol/networks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/blockchain/chain.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/blockchain/chain.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mempool/mempool.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/mempool/mempool.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,12 +54,24 @@
       <workItem from="1614567837179" duration="28181000" />
       <workItem from="1614742542523" duration="54416000" />
       <workItem from="1615169219751" duration="10877000" />
-      <workItem from="1616984821430" duration="2647000" />
+      <workItem from="1616984821430" duration="3119000" />
+      <workItem from="1617073776622" duration="260000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="2018" y="393" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615206445205">
